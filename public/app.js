@@ -4,7 +4,6 @@
 // let newCat = document.createElement("ul");
 //   newCat.classList.add("cat");
 //   //create first child of ul, li with cat name
-//   debugger;
 //
 //   let catName = document.createElement("li");
 //     catName.innerText = "Name: Boba";
